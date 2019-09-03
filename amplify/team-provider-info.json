@@ -1,0 +1,19 @@
+{
+    "master": {
+        "awscloudformation": {
+            "AuthRoleName": "photo-cloud-master-20190903034411-authRole",
+            "UnauthRoleArn": "arn:aws:iam::278781040930:role/photo-cloud-master-20190903034411-unauthRole",
+            "AuthRoleArn": "arn:aws:iam::278781040930:role/photo-cloud-master-20190903034411-authRole",
+            "Region": "us-east-1",
+            "DeploymentBucketName": "photo-cloud-master-20190903034411-deployment",
+            "UnauthRoleName": "photo-cloud-master-20190903034411-unauthRole",
+            "StackName": "photo-cloud-master-20190903034411",
+            "StackId": "arn:aws:cloudformation:us-east-1:278781040930:stack/photo-cloud-master-20190903034411/175dbd30-cdfd-11e9-a9c6-0a9be5775b42"
+        },
+        "categories": {
+            "auth": {
+                "photocloud25348b37": {}
+            }
+        }
+    }
+}
