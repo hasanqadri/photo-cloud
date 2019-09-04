@@ -1,0 +1,9 @@
+{
+	"auth": {
+		"photocloud25348b37": {
+			"service": "Cognito",
+			"providerPlugin": "awscloudformation",
+			"dependsOn": []
+		}
+	}
+}
