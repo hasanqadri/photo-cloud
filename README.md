@@ -1,4 +1,3 @@
-<<<<<<< HEAD
 # photo-cloud
 
 We react and aws. 
