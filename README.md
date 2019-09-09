@@ -1,7 +1,6 @@
 # photo-cloud
 
-We react and aws. 
-Donate to our patreon here at www.patreon.com/u/photo-cloud-world-saving-app
+We react and aw(e)s. 
 =======
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
