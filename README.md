@@ -1,9 +1,7 @@
-<<<<<<< HEAD
 # photo-cloud
 
 We react and aws. 
 Donate to our patreon here at www.patreon.com/u/photo-cloud-world-saving-app
-=======
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
 ## Available Scripts
@@ -72,4 +70,3 @@ This section has moved here: https://facebook.github.io/create-react-app/docs/de
 ### `npm run build` fails to minify
 
 This section has moved here: https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify
->>>>>>> Feature: Added login and registration to the application. Installed aws-amplify, aws-amplify-react, and semantic-ui-react. Utilized them in the app.js to get the registration/login working.

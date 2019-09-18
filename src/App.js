@@ -12,7 +12,7 @@ class App extends Component {
     render() { 
         return (
             <div>
-                <Header as='h1'>Hello World!</Header>
+                <Header as='h1'>Welcome!</Header>
             </div>
         );
     }
